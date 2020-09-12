@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/int-tec/static/css/main.727c2571.chunk.css",
-    "main.js": "/int-tec/static/js/main.060bf873.chunk.js",
-    "main.js.map": "/int-tec/static/js/main.060bf873.chunk.js.map",
+    "main.css": "/int-tec/static/css/main.3e06cf09.chunk.css",
+    "main.js": "/int-tec/static/js/main.2aebe590.chunk.js",
+    "main.js.map": "/int-tec/static/js/main.2aebe590.chunk.js.map",
     "runtime-main.js": "/int-tec/static/js/runtime-main.369ae858.js",
     "runtime-main.js.map": "/int-tec/static/js/runtime-main.369ae858.js.map",
     "static/js/2.de3451bc.chunk.js": "/int-tec/static/js/2.de3451bc.chunk.js",
     "static/js/2.de3451bc.chunk.js.map": "/int-tec/static/js/2.de3451bc.chunk.js.map",
     "index.html": "/int-tec/index.html",
-    "precache-manifest.90c92b5c90de897c9d221540764dcbb3.js": "/int-tec/precache-manifest.90c92b5c90de897c9d221540764dcbb3.js",
+    "precache-manifest.3014cba0ecbf661f4182cc4101d41900.js": "/int-tec/precache-manifest.3014cba0ecbf661f4182cc4101d41900.js",
     "service-worker.js": "/int-tec/service-worker.js",
-    "static/css/main.727c2571.chunk.css.map": "/int-tec/static/css/main.727c2571.chunk.css.map",
+    "static/css/main.3e06cf09.chunk.css.map": "/int-tec/static/css/main.3e06cf09.chunk.css.map",
     "static/js/2.de3451bc.chunk.js.LICENSE.txt": "/int-tec/static/js/2.de3451bc.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/int-tec/static/media/logo.5d5d9eef.svg",
     "static/media/pps.jpg": "/int-tec/static/media/pps.6801d32d.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.369ae858.js",
     "static/js/2.de3451bc.chunk.js",
-    "static/css/main.727c2571.chunk.css",
-    "static/js/main.060bf873.chunk.js"
+    "static/css/main.3e06cf09.chunk.css",
+    "static/js/main.2aebe590.chunk.js"
   ]
 }
